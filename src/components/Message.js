@@ -4,7 +4,7 @@ import { Button, Form } from "react-bootstrap";
 function Message(){
   const [posts, setPosts] = useState (['prvni', 'druhy']);
   const [newPost, setNewPost] = useState('napis vzkaz');
- //test
+ 
   // function handleChange(event) {
   //   console.log(event.target.value);
   // }
